@@ -1,0 +1,21 @@
+{
+  "name": "challenge-accepted-master",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <a href=\"http://www.climatempo.com.br\">       <img src=\"http://i.imgur.com/Q9lCAMF.png\" alt=\"Climatempo\" width=\"300px\"/>   </a> </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "connect-multiparty": "^2.1.0",
+    "consign": "^0.1.6",
+    "ejs": "^2.5.9",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.17"
+  }
+}
